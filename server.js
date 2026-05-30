@@ -30,7 +30,7 @@ app.use(morgan("dev"));
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://e-book-store-eta.vercel.app",
+  "https://brain-hub-mu.vercel.app",
 ];
 
 app.use(
